@@ -1,0 +1,4 @@
+models:
+  manager: "gpt-5.4-mini"
+  verifier: "gpt-5.4-nano"
+  programmer: "gpt-5.4-nano"

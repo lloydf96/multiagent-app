@@ -1,0 +1,11 @@
+streamlit
+langgraph
+langchain-core
+langchain-openai
+langchain-community
+e2b-code-interpreter
+tavily-python
+python-dotenv
+pyyaml
+pydantic
+typing_extensions

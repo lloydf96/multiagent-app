@@ -1,0 +1,23 @@
+# Ignore node_modules folder
+old_code/
+lineCode/
+__pycache__/
+coder_agents/__pycache__
+v1/
+v2/
+v3/
+v4/
+working_directory/
+
+
+log.txt
+streamlit.db
+streamlit.py
+
+# Ignore environment variable files
+.env
+
+# Virtual environment
+venv/
+
+sessions/
